@@ -39,7 +39,14 @@ nav ul li a {
     background-color: #d5202c;
     color: white;
     padding: 50px;
-    text-align: center;
+    text-align: left;
+    display: flex;
+
+}
+
+.section2 .column{
+    flex: 1;
+    margin: 0 10px;
 }
 
 .section3 {
