@@ -6,12 +6,6 @@ body {
     padding: 0;
 }
 
-main {
-    width: 200px;
-    margin: 0 auto;
-    padding: 20px; /* Optional: Add padding inside the main content */
-    background-color: white; /* Optional: Add background color to the main content */
-}
 
 nav {
     background-color: #333;
@@ -55,7 +49,9 @@ nav ul li a {
 /* Create three equal columns that floats next to each other */
 .section2 .column {
   float: center;
+  flex 1;
   width: 20%;
+  margin: 0 20px; /*add margin*/
   padding: 30px;
 }
 
