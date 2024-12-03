@@ -1,13 +1,13 @@
 /* css/styles.css */
 body {
     font-family: Arial, sans-serif;
-    background-color: #F4F5F4;
+    background-color: #1f62ff;
     margin: 0;
     padding: 0;
 }
 
 h1 {
-    color: #D5202C;
+    color: #d5202c;
     text-align: center;
     margin-top: 50px;
 }
